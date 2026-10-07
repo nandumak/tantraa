@@ -53,3 +53,4 @@ The application requires a Cloudflare-compatible Worker, a D1 binding named `DB`
 ## Validation
 
 TypeScript and production build checks passed for this version. Browser interaction testing was not available during initial authoring.
+
